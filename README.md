@@ -52,7 +52,7 @@ These designs guided the layout and styling decisions throughout the build.
 ## 🚀 How to View the Project (2 Ways)
 
 You can view the live version of the project here:
-🔗 **[Space Adventures – Live Demo](https://yourusername.github.io/space-adventures/)**
+🔗 **[Space Adventures – Live Demo](https://yashmagane.github.io/SpaceAdventuresWebsite/)**
 
 1. Clone the repository:
    ```bash
